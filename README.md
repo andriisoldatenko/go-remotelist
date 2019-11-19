@@ -4,16 +4,16 @@
 
 A curated list of remote jobs with Go/Golang experience.
 
-### ✈️ Remote Companies
+### 🌴💻️ Remote Companies
 
 Companies that advertise remote roles with Go/Golang experience.
 
-| Site->Jobs |   Description |                                          
-|-------|-----------|
-| [DigitalOcean](https://www.digitalocean.com/careers/) | Build the cloud |
-| [Weaveworks](https://www.weave.works/company/hiring/) | Automate Enterprise Kubernetes the GitOps way |
-| [Canonical](https://canonical.com/careers) |The company behind Ubuntu |
-| [Percona](https://www.percona.com/) |The Database Performance Experts |
-| [DataDog](https://www.datadoghq.com/) |Cloud Monitoring as a Service |
-| [Gitlab](https://about.gitlab.com/jobs/) |GitLab Concurrent DevOps | Full DevOps Toolchain‎ |
-| [elastic](https://www.elastic.co/) |We're the creators of the Elastic (ELK) Stack‎ |
+| Site->Jobs | Description | Available countries for remote from |
+|-------|-----------|------------|
+| [DigitalOcean](https://www.digitalocean.com/careers/) | Build the cloud | United States, Canada, Germany, Netherlands |
+| [Weaveworks](https://www.weave.works/company/hiring/) | Automate Enterprise Kubernetes the GitOps way | All |
+| [Canonical](https://canonical.com/careers) |The company behind Ubuntu | TBD |
+| [Percona](https://www.percona.com/) |The Database Performance Experts | All |
+| [DataDog](https://www.datadoghq.com/) |Cloud Monitoring as a Service | TBD |
+| [Gitlab](https://about.gitlab.com/jobs/) |GitLab Concurrent DevOps, Full DevOps Toolchain‎ | TBD |
+| [elastic](https://www.elastic.co/) | We're the creators of the Elastic (ELK) Stack‎ | TBD |
