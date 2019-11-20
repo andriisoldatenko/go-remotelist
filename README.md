@@ -17,3 +17,4 @@ Companies that advertise remote roles with Go/Golang experience.
 | [DataDog](https://www.datadoghq.com/) |Cloud Monitoring as a Service | TBD |
 | [Gitlab](https://about.gitlab.com/jobs/) |GitLab Concurrent DevOps, Full DevOps Toolchain‎ | TBD |
 | [elastic](https://www.elastic.co/) | We're the creators of the Elastic (ELK) Stack‎ | TBD |
+| [HashiCorp](https://www.hashicorp.com/jobs/) | HashiCorp solves development, operations, and security challenges in infrastructure | United States, United Kingdom, Canada, Netherlands, Germany |
