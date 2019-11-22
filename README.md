@@ -16,5 +16,6 @@ Companies that advertise remote roles with Go/Golang experience.
 | [Percona](https://www.percona.com/) |The Database Performance Experts | Everywhere |
 | [DataDog](https://www.datadoghq.com/) |Cloud Monitoring as a Service | TBD |
 | [Gitlab](https://about.gitlab.com/jobs/) |GitLab Concurrent DevOps, Full DevOps Toolchain‎ | TBD |
+| [HashiCorp](https://www.hashicorp.com/jobs/) | HashiCorp solves development, operations, and security challenges in infrastructure | United States, United Kingdom, Canada, Netherlands, Germany |
 | [Elastic](https://www.elastic.co/) | We're the creators of the Elastic (ELK) Stack‎ | TBD |
 | [Brave](https://brave.com/careers/) | Brave is a free and open-source web browser | Everywhere |
