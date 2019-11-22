@@ -11,9 +11,10 @@ Companies that advertise remote roles with Go/Golang experience.
 | Site->Jobs | Description | Available countries for remote from |
 |-------|-----------|------------|
 | [DigitalOcean](https://www.digitalocean.com/careers/) | Build the cloud | United States, Canada, Germany, Netherlands |
-| [Weaveworks](https://www.weave.works/company/hiring/) | Automate Enterprise Kubernetes the GitOps way | All |
+| [Weaveworks](https://www.weave.works/company/hiring/) | Automate Enterprise Kubernetes the GitOps way | Everywhere |
 | [Canonical](https://canonical.com/careers) |The company behind Ubuntu | TBD |
-| [Percona](https://www.percona.com/) |The Database Performance Experts | All |
+| [Percona](https://www.percona.com/) |The Database Performance Experts | Everywhere |
 | [DataDog](https://www.datadoghq.com/) |Cloud Monitoring as a Service | TBD |
 | [Gitlab](https://about.gitlab.com/jobs/) |GitLab Concurrent DevOps, Full DevOps Toolchain‎ | TBD |
-| [elastic](https://www.elastic.co/) | We're the creators of the Elastic (ELK) Stack‎ | TBD |
+| [Elastic](https://www.elastic.co/) | We're the creators of the Elastic (ELK) Stack‎ | TBD |
+| [Brave](https://brave.com/careers/) | Brave is a free and open-source web browser | Everywhere |
